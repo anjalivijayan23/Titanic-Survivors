@@ -15,7 +15,7 @@ This project analyzes the Titanic dataset using SQL, Excel, and Tableau. The goa
 - `Titanic_Dashboard.png` (Dashboard image)  
 
 ## 📊 Tableau Dashboard  
-![Titanic Dashboard](Titanic_Visualization.png)  
+![Titanic Dashboard](Titanic_Dashboard.png)  
 
 ## 📖 Blog Post  
 Read more about this project here: [Medium Blog](link)  
